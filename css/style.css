@@ -1,0 +1,174 @@
+
+body {
+    color: #40514E;
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    background-color: #FFDEDE;
+
+}
+
+h1 {
+    color: #F2BB7B;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    font-weight: 100;
+    margin: 50px auto 0 auto;
+}
+
+h2 {
+    color: #F2BB7B;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2rem
+    
+}
+
+h3 {
+    color: #F2BB7B;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 4%;            
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+    
+}
+
+.bottom-container {
+    background-color:  #CC9B6D;
+    padding: 40px;
+}
+
+.footer-link {
+    color: #290001;
+    font-family: 'Montserrat', sans-serif;
+    padding: 20px;
+    font-size: 1rem;
+    font-weight: bold;
+    text-decoration: none;
+}
+.footer-link:hover {
+    color: white;
+}
+
+.btn {
+    background: #F1CA89;
+    background-image: -webkit-linear-gradient(top, #F1CA89, #CC9B6D);
+    background-image: -moz-linear-gradient(top, #F1CA89, #CC9B6D);
+    background-image: -ms-linear-gradient(top, #F1CA89, #CC9B6D);
+    background-image: -o-linear-gradient(top, #F1CA89, #CC9B6D);
+    background-image: linear-gradient(to bottom, #F1CA89, #CC9B6D);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    color: white;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+.btn:hover {
+    background: #F2DAC3;
+    background-image: -webkit-linear-gradient(top, #FFA45B, #D08752);
+    background-image: -moz-linear-gradient(top, #FFA45B, #D08752);
+    background-image: -ms-linear-gradient(top, #FFA45B, #D08752);
+    background-image: -o-linear-gradient(top, #FFA45B, #D08752);
+    background-image: linear-gradient(to bottom, #FFA45B, #D08752);
+    text-decoration: none;
+}
+
+.credits {
+    color: #FFDEDE;
+    font-size: 1rem;
+}
+
+.get-in-touch-p {
+    width: 40%;
+    margin: 40px auto 60px;
+}
+
+.hello {
+    margin: 70px;
+} 
+
+.info {
+    width: 30%;
+    margin: 70px auto;
+    
+}
+
+.my-skills {
+    margin: 70px;
+}
+
+.middle-container {
+    position: relative;
+    margin: 100px;
+}
+.otep {
+    width: 25%;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+    
+}
+
+
+.top-container {
+    background-color: #FFDEDE;
+    padding-top: 100px;
+    position: relative;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+    
+}
+
+.videogame {
+    width: 25%;
+    float: left;
+    margin: 30px;
+    border-radius: 100%;
+}
+
+.webdev {
+    width: 25%;
+    float: right;
+    margin: 30px;
+    border-radius: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
